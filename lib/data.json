@@ -1,0 +1,23 @@
+{
+    "car4": {
+        "brand": "Opel",
+        "model": "Astra",
+        "mYear": "2011",
+        "km": "110000",
+        "color": "grey"
+    },
+    "car5": {
+        "brand": "Ford",
+        "model": "F150",
+        "mYear": "2014",
+        "km": "75000",
+        "color": "black"
+    },
+    "car6": {
+        "brand": "Alfa Romeo",
+        "model": "146",
+        "mYear": "1996",
+        "km": "175000",
+        "color": "gold"
+    }
+}
